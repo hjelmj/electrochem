@@ -1,0 +1,18 @@
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+/build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# LibreOffice Spreadsheet files
+*.ods
+
+# log, lock and backup files
+*.log
+*.bak
+.~lock*
+.gitignore~
